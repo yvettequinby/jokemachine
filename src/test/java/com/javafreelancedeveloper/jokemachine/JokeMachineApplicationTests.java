@@ -1,4 +1,4 @@
-package com.javafreelancedeveloper.chucknorris;
+package com.javafreelancedeveloper.jokemachine;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
@@ -7,7 +7,7 @@ import org.springframework.test.context.junit4.SpringRunner;
 
 @RunWith(SpringRunner.class)
 @SpringBootTest
-public class ChucknorrisApplicationTests {
+public class JokeMachineApplicationTests {
 
 	@Test
 	public void contextLoads() {
